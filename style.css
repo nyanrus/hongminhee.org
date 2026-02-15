@@ -215,6 +215,9 @@ a.non-public:link {
 p > .handle:first-child:last-child {
   font-size: inherit;
 }
+.matrix-username > a:first-child {
+  font-family: Consolas, monospace;
+}
 .discord-username > a:first-child {
   font-family: Consolas, monospace;
 }
